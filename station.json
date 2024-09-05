@@ -1,9 +1,8 @@
 {
-    "Central Police Station",
-     9003810508,
-     11.00001,
-     12.91503,
-     77.00001,
-     78.93052
+    "name": "Central Police Station",
+    "phone": "123-456-7890",
+    "latMin": 11.00000,
+    "latMax": 12.91503,
+    "lonMin": 77.00600,
+    "lonMax": 78.93052
 }
-   
