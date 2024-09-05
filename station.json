@@ -1,0 +1,20 @@
+{
+  "stations": [
+    {
+      "name": "Central Police Station",
+      "phone": "123-456-7890",
+      "latMin": 11.00000,
+      "latMax": 12.91503,
+      "lonMin": 77.00600,
+      "lonMax": 78.93052
+    },
+    {
+      "name": "Westside Police Station",
+      "phone": "987-654-3210",
+      "latMin": 34.0522,
+      "latMax": 34.3622,
+      "lonMin": -118.2437,
+      "lonMax": -118.1437
+    }
+  ]
+}
